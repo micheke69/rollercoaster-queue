@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rollercoaster-queue/static/css/main.b34a315d.chunk.css",
+    "main.js": "/rollercoaster-queue/static/js/main.0ebf4b9a.chunk.js",
+    "main.js.map": "/rollercoaster-queue/static/js/main.0ebf4b9a.chunk.js.map",
+    "runtime-main.js": "/rollercoaster-queue/static/js/runtime-main.6f092e19.js",
+    "runtime-main.js.map": "/rollercoaster-queue/static/js/runtime-main.6f092e19.js.map",
+    "static/js/2.58c7fe6a.chunk.js": "/rollercoaster-queue/static/js/2.58c7fe6a.chunk.js",
+    "static/js/2.58c7fe6a.chunk.js.map": "/rollercoaster-queue/static/js/2.58c7fe6a.chunk.js.map",
+    "static/js/3.10be8a9d.chunk.js": "/rollercoaster-queue/static/js/3.10be8a9d.chunk.js",
+    "static/js/3.10be8a9d.chunk.js.map": "/rollercoaster-queue/static/js/3.10be8a9d.chunk.js.map",
+    "index.html": "/rollercoaster-queue/index.html",
+    "static/css/main.b34a315d.chunk.css.map": "/rollercoaster-queue/static/css/main.b34a315d.chunk.css.map",
+    "static/js/2.58c7fe6a.chunk.js.LICENSE.txt": "/rollercoaster-queue/static/js/2.58c7fe6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f092e19.js",
+    "static/js/2.58c7fe6a.chunk.js",
+    "static/css/main.b34a315d.chunk.css",
+    "static/js/main.0ebf4b9a.chunk.js"
+  ]
+}
