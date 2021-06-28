@@ -1,0 +1,17 @@
+.Queue{
+    overflow-x: scroll;
+    display: flex;
+    flex-direction: row;
+}
+.Person{
+    padding: 20px;
+    background-color: #fff;
+    font-size: 20px;
+    color: rgba(0,0,0,0.4);
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 40px 5px;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+}

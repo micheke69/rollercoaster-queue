@@ -1,0 +1,46 @@
+.Result {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 20px 40px;
+  border-radius: 5px;
+  min-width: 300px;
+
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #fff;
+  }
+
+  h3 {
+    text-align: center;
+    color: salmon;
+    text-transform: uppercase;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+
+    li {
+      display: flex;
+      justify-content: space-evenly;
+      line-height: 24px;
+      list-style-type: none;
+      border-bottom: 1px dashed;
+      padding: 10px;
+
+      span {
+        font-size: 24px;
+        color: lightblue;
+        margin-left: 20px;
+      }
+      p{
+          margin: 0;
+      }
+    }
+
+    li:last-child {
+      border-bottom: none;
+    }
+  }
+}
